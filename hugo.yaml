@@ -1,0 +1,12 @@
+baseURL: "/"
+languageCode: "fr-fr"
+title: "Coral Forge Studio POC"
+theme: "gohugo-theme-ananke"
+params:
+  description: "Studio creatif POC genere par le worker generique."
+  siteTheme: "creative-studio"
+  env: "production"
+  pbnContext: "creative-studio"
+  defaultTheme: "auto"
+taxonomies:
+  tag: tags
